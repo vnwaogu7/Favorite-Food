@@ -1,0 +1,135 @@
+*{
+  box-sizing: border-box;
+}
+
+.tacotop a:link {
+  text-decoration:none;
+  color:white;
+}
+
+.tacotop a:visited{
+  color:white;
+}
+
+.tacotop a:hover{
+  color:yellow;
+}
+
+.tacotop a:active{
+  color:green;
+}
+
+#sup{
+  margin:auto;
+  text-align:center; 
+  width:900px; 
+  background-image:url("http://solunayogaspa.com/wp-content/uploads/2014/11/parchment_landscape_i_by_allocer2009-d4d80w4.jpg");
+}
+
+header img{
+  border-radius:30%;
+}
+
+header button{
+  height:50px;
+  width:50px;
+}
+.fas{
+  font-size:30px;
+}
+nav{
+  border:1px groove;
+  border-radius:5px;  
+  text-align:; 
+  background-color:black;
+  padding-right:30px;
+
+
+}
+ul{
+  font-size:20px;
+  color:white;
+  display:flex;
+  justify-content:space-between; 
+}
+
+.tacotop{
+  
+}
+
+.tacotop header{
+  display:flex;
+  background-image:url("https://www.freepik.com/free-photo/rhassoul-clay-honey-essential-oils-with-cotton-pod-twig-beige-textured-backdrop_4173840.htm");
+    margin-bottom:20px;  
+}
+
+.tacotop p{
+  text-align:center;
+  FONT-SIZE:30PX;
+  margin-left: 180px;
+  margin-right: 300px;
+}
+
+button {
+  font-size:20px;
+  border-radius:10px;
+  
+}
+.soft{
+  margin-left:15px;
+  margin-right:15px;
+  justify-content:;
+  display:block;
+  height:350px;
+  width:250px;
+  border:3px solid black;
+  border-radius:10px;
+  
+}
+
+.hard{
+  margin-left:15px;
+  margin-right:15px;
+  justify-content:;
+  display:block;
+  height:350px;
+  width:250px;
+  border:3px solid black;
+  border-radius:10px;  
+}
+
+.burrito{
+  margin-left:15px;
+  margin-right:15px;
+  justify-content:;
+  display:block;
+  height:350px;
+  width:250px;
+  border:3px solid black;
+  border-radius:10px;  
+}
+
+.option header{
+  font-size:20px;
+  background-color:;
+}
+
+.option{
+  display:flex;
+  justify-content:space-between;
+}
+
+.option p{
+  padding:20px;
+}
+
+footer{
+  margin-top:20px;
+  display:flex;
+  justify-content:space-between;
+  
+  border: 2px solid; 
+  padding-right:100px;
+  padding-left:40px;
+  border-radius:5px;
+}
