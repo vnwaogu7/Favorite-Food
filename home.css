@@ -1,0 +1,42 @@
+<!Doctype>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="history.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    
+  </head>
+  <body id="sup">
+    <div class="tacotop">
+      <header>
+      <img src="https://hostthetoast.com/wp-content/uploads/2017/05/Slow-Cooker-Spicy-Shredded-Mexican-Chicken-6.jpg" width= 200px height="200px">
+      <p><span style="color:#C80000">Taco's</span><br> <span style="color:#2AAA00">Taco's</span><br><span style="color:white">Taco's</span></p >
+      <button type="button"><i class="fas fa-search" height=10px></i>  
+      </button>
+      <button type="button"><i class="fas fa-search"></i></button></i> 
+      </header>
+    
+      <nav>
+        <ul style="list-style: none">
+          <li><a>Home</a></li>
+          <li><a>History</a></li>
+          <li><a>Why Taco's?</a></li>
+          <li><a>Recipe</a></li>
+        </ul>  
+      </nav>
+    </div>
+    <h1><span style="color:white">History</h1>
+    <div class="history">
+    <img src="https://www.abuelos.com/dbcwp/wp-content/uploads/2018/06/modal-desktop.jpg" width=300px height=200px>
+    <div class="text">
+      <h3><u>History of The Taco</u></h3>
+      <h5>Where oh where did these darn taco's come from?</h5>
+      <p>It's hard to trace back the origin of the taco to one specific inventor. It's most likely that its base components (tortilla and meat) are a common combination. Jeffrey M. Pilcher, professor of history at the University of Minnesota believes the origin of the word was a word referring to an explosive charge made of paper wrapped around gunpowder. These devices were used to detonate silver mines. The spark in industrialization brought migrant workers throughtout the early 1900's into the US. Soon, it evolved into the dish we know and love today! 
+      </p>
+    </div>
+    </div>  
+    <footer>
+    <p> ©CopyRight 2019 </p><p>WebsiteCreated by: Victor Nwaogu</p>
+<a  href="" target="tacotop"><img src="https://hostthetoast.com/wp-content/uploads/2017/05/Slow-Cooker-Spicy-Shredded-Mexican-Chicken-6.jpg" width=50px height=50px></a>  
+</footer>
+</body>  
+</html>
